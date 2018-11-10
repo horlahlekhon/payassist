@@ -17,3 +17,12 @@ A react project implemeting container method of getting state
     anniversary: 29-10-2018
 }
 
+Service : {
+    id:232,  
+  serviceProviderId:3,
+  tenor: 30,
+  amount: 10000,
+  name: E-payment,
+  description: payment
+
+}
