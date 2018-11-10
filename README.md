@@ -6,6 +6,8 @@ A react project implemeting container method of getting state
 npm install json-server
 
 then create a file on root i.e db.json , then populate it with this data, you can also duplicate it too....
+you can check if teh file loads at http://localhost:3000/Account this will load the accounts and if
+you do http://localhost:3000/Account/1 it will load the first object in the array....
 
 # Run the json-server with the db file specified
 
